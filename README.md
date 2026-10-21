@@ -19,6 +19,8 @@ memory and CPU, and a log line every time a process goes over your limit.
 
 [Why](#why) · [Install](#install) · [Usage](#usage) · [How it works](#how-it-works)
 
+**English** · [Español](README.es.md)
+
 </div>
 
 ---
